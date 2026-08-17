@@ -4,7 +4,7 @@ Modern Android geliştirme standartları kullanılarak inşa edilmiş, **Google 
 
 Geleneksel metin tabanlı ürün arama deneyimini bir üst seviyeye taşıyarak, kullanıcıların kameralarından çektikleri fotoğrafları yapay zeka ile analiz eder ve veritabanındaki binlerce ürün arasından en uygun olanları milisaniyeler içinde eşleştirir.
 
-## ✨ Temel Özellikler (Key Features)
+## ✨ Temel Özellikler (Key Features):
 
 * 🧠 **Akıllı Görsel Arama (Visual Search):** Google Gemini 1.5 Flash modeli entegrasyonu sayesinde kameradan gelen görüntüleri analiz eder; ürünün kategorisini, rengini, materyalini ve anahtar kelimelerini %100 yapılandırılmış JSON formatında çıkarır.
 * ⚡ **Offline-First Mimari:** Backend'e bağımlı kalmadan, 40.000'e yakın ürün verisini **Room Database** üzerinde lokal olarak tutar. Yapay zekadan gelen parametreleri "Varsa Eşleştir, Yoksa Pas Geç" mantığıyla çalışan esnek DAO sorgularıyla filtreler. Sıfır sunucu gecikmesi (Zero Latency) ile sonuç verir.

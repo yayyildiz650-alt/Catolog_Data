@@ -32,10 +32,14 @@ Proje, Sürdürülebilirlik (Maintainability) ve Temiz Kod (Clean Code) prensipl
 ## 🚀 Kurulum ve Çalıştırma
 
 Projeyi kendi bilgisayarınızda derlemek ve yapay zeka özelliklerini test etmek için aşağıdaki adımları izleyin:
+
 1- Projeyi klonlayın
+
 2-Android Studio'da projenin ana dizininde bulunan local.properties dosyasını açın (yoksa oluşturun) ve içine anahtarınızı ekleyin:
+
 Properties
 GEMINI_API_KEY=AQ_BURAYA_KENDI_ANAHTARINIZI_YAZIN
+
 3-Projeyi senkronize edin (Sync Project with Gradle Files) ve çalıştırın.
 
 Geliştirici: Muhammed Yakup Ayyıldız

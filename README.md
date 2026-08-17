@@ -46,7 +46,7 @@ Proje, Sürdürülebilirlik (Maintainability) ve Temiz Kod (Clean Code) prensipl
 4. ViewModel bu JSON'u ayrıştırır ve Room veritabanına esnek bir SQL sorgusu olarak gönderir.
 5. Veritabanındaki eşleşen ürünler anında Jetpack Compose listelerine (LazyColumn/LazyRow) yansıtılır.
 
-## 🚀 Kurulum ve Çalıştırma
+## 🚀 Kurulum ve Çalıştırma:
 
 Projeyi kendi bilgisayarınızda derlemek ve yapay zeka özelliklerini test etmek için aşağıdaki adımları izleyin:
 

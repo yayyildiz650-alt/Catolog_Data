@@ -1,3 +1,6 @@
+<img width="1080" height="2400" alt="Screenshot_20260817_135001" src="https://github.com/user-attachments/assets/ca25e0cc-6ebb-42ec-a864-cb4ac6144844" />
+<img width="1080" height="2400" alt="Screenshot_20260817_134911" src="https://github.com/user-attachments/assets/53653926-1acb-42f7-a7d9-d069df981c34" />
+<img width="1080" height="2400" alt="Screenshot_20260817_134841" src="https://github.com/user-attachments/assets/edcce00c-a003-409f-8edc-1172c97f15c8" />
 # 🚀 AI-Powered E-Commerce App (Yapay Zeka Destekli Görsel Arama)
 
 Modern Android geliştirme standartları kullanılarak inşa edilmiş, **Google Gemini AI** entegrasyonuna sahip, yenilikçi ve çevrimdışı öncelikli (offline-first) bir e-ticaret uygulamasıdır. 

@@ -15,11 +15,15 @@ Geleneksel metin tabanlı ürün arama deneyimini bir üst seviyeye taşıyarak,
   <img src="https://github.com/user-attachments/assets/53653926-1acb-42f7-a7d9-d069df981c34" width="250" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/ca25e0cc-6ebb-42ec-a864-cb4ac6144844" width="250" />
+   &nbsp;&nbsp;&nbsp;&nbsp;
+   <img src=" https://github.com/user-attachments/assets/460c7c3d-3d4f-4d08-b0f7-640446f407cd" width="250" />
+ 
 </p>
 
 ## ✨ Temel Özellikler (Key Features):
 
-* 🧠 **Akıllı Görsel Arama (Visual Search):** Google Gemini 1.5 Flash modeli entegrasyonu sayesinde kameradan gelen görüntüleri analiz eder; ürünün kategorisini, rengini, materyalini ve anahtar kelimelerini %100 yapılandırılmış JSON formatında çıkarır.
+* 🧠 **Akıllı Görsel Arama (Visual Search):** Google Gemini 3
+.5 Flash modeli entegrasyonu sayesinde kameradan gelen görüntüleri analiz eder; ürünün kategorisini, rengini, materyalini ve anahtar kelimelerini %100 yapılandırılmış JSON formatında çıkarır.
 * ⚡ **Offline-First Mimari:** Backend'e bağımlı kalmadan, 40.000'e yakın ürün verisini **Room Database** üzerinde lokal olarak tutar. Yapay zekadan gelen parametreleri "Varsa Eşleştir, Yoksa Pas Geç" mantığıyla çalışan esnek DAO sorgularıyla filtreler. Sıfır sunucu gecikmesi (Zero Latency) ile sonuç verir.
 * 🎨 **Modern ve Dinamik UI:** Tamamen **Jetpack Compose** ile geliştirilmiş deklaratif arayüz. Material Design 3 standartlarına uygun, pürüzsüz animasyonlara ve asenkron görsel yükleme (Coil) desteğine sahip modern tasarım.
 * 🏗️ **Güçlü State Yönetimi:** Ekran yan çevirmelerinde (Configuration Change) veri kaybını önleyen ve UI bileşenlerini sadece gerektiğinde yeniden çizen (Recomposition Optimization) gelişmiş durum yönetimi.

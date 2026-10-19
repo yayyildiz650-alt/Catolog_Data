@@ -1,7 +1,8 @@
  
 
 
-# 🚀 AI-Powered E-Commerce App (Yapay Zeka Destekli Görsel Arama)
+# 🚀 AI-Powered E-Commerce App (Yapay Zeka Destekli Görsel Arama) 
+(Veri Listesi)
 
 Modern Android geliştirme standartları kullanılarak inşa edilmiş, **Google Gemini AI** entegrasyonuna sahip, yenilikçi ve çevrimdışı öncelikli (offline-first) bir e-ticaret uygulamasıdır. 
 
